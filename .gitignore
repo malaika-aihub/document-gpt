@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+dgbot/
+
+# Secrets (IMPORTANT)
+.streamlit/secrets.toml
+.env
+
+# VS Code
+.vscode/
+
+# Data / uploads
+uploads/
+data/
+
+# Vector DB
+faiss_index/
+
+# Logs
+*.log  
