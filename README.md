@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📄 Document GPT
 
 Document GPT is an AI-powered chatbot that allows users to upload documents and ask questions about their content.
@@ -32,3 +33,7 @@ PyPDF2
 python-docx
 
 Pandas
+=======
+# document-gpt
+"AI-powered document question answering app using LangChain and Streamlit"
+>>>>>>> bacb6e1779e4802bd58dfb70525bad9e73323573
