@@ -34,3 +34,6 @@ python-docx
 
 Pandas
 
+Currently, the app structure is ready and fully functional UI is implemented.  
+- **OpenAI API key integration is pending** – responses will work after adding the key in `.streamlit/secrets.toml`.  
+
