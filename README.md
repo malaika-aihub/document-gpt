@@ -33,7 +33,4 @@ PyPDF2
 python-docx
 
 Pandas
-=======
-# document-gpt
-"AI-powered document question answering app using LangChain and Streamlit"
->>>>>>> bacb6e1779e4802bd58dfb70525bad9e73323573
+
